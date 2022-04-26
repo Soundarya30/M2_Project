@@ -73,4 +73,18 @@ Ease to use the solar energy.
 
 ## How
 
-By using SimulIDE.
+This project is helpful for the person who saves energy and electricity bill.
+
+# Requirement
+
+## High Level Requirements
+| ID  | Description | Status |
+| --- | --- | --- |
+| HLR-1 | Displays intensity of the LDR | Implemented |
+| HLR-2 | Displays the position of the solar panel | Implemented |
+## Low Level Requirements
+| ID  | Description | Status |
+| --- | --- | --- |
+| LLR-1 | Interface Micro Controller with Servo Motor | Implemented |
+| LLR-2 | Interface LDR with  Micro Controller  | Implemented |
+
