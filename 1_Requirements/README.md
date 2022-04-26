@@ -17,4 +17,18 @@ SimulIDE
 # WORKING PRINCIPLE
 
 * Two LDRs, a solar panel, a servo motor, and an ATmega328 Microcontroller make up the Sun tracking solar panel.On the solar panel's edges, two light-dependent resistors are positioned. When light falls on a light dependent resistor, it produces a low resistance. The panel is rotated in the direction of the Sun by a servo motor connected to it. The panel is set up in such a way that the light from two LDRs is compared, and the panel is rotated towards the LDR with the highest intensity, i.e. the least resistance. The panel is rotated at a specific angle using a servo motor.
-* 
+
+
+## Components Description
+
+### ATmega328 Microcontroller
+
+ATmega328 is an AVR family micro controller. It is based on advanced RISC architecture. It is an 8-bit controller. It has 32K Bytes of Programmable Flash memory, 1K Bytes of EEPROM and 2K Bytes of SRAM. It has 23 programmable I/O pins.
+
+### LDR
+
+Light Dependent Resistors or LDRs are the resistors whose resistance values depend on intensity of the light. As the intensity of light falling on the LDR increases, resistance value decreases. In dark, LDR will have maximum resistance.
+
+### Servo Motor
+
+Servo motor is used to rotate the panel.
