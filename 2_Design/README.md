@@ -1,6 +1,9 @@
-# ARCHITECTURE
+# Design
 
-* Schematic Diagram
-* Behaviour Diagram
 * Structural Diagram
+* Behavioral Diagram
+
+## 1.Behavioral Diagram
+
+
 
