@@ -13,3 +13,8 @@ Solar panel position by tracking sun is a project which uses ATmega328 Micro Con
 # Software Used
 
 SimulIDE
+
+# WORKING PRINCIPLE
+
+* Two LDRs, a solar panel, a servo motor, and an ATmega328 Microcontroller make up the Sun tracking solar panel.On the solar panel's edges, two light-dependent resistors are positioned. When light falls on a light dependent resistor, it produces a low resistance. The panel is rotated in the direction of the Sun by a servo motor connected to it. The panel is set up in such a way that the light from two LDRs is compared, and the panel is rotated towards the LDR with the highest intensity, i.e. the least resistance. The panel is rotated at a specific angle using a servo motor.
+* 
