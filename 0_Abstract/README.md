@@ -5,3 +5,4 @@ Solar panels should absorb as much energy as possible in order to make the most 
 This is only possible if the panels are always pointing in the direction of the Sun.
 As a result, solar panels should rotate towards the direction of the sun to absorb more energy from it.
 This project is about a circuit that rotates a solar panel in response to the sun's location.
+* NOTE: This is an existing project that was reffered from the net.
