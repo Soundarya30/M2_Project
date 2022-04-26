@@ -35,6 +35,8 @@ Servo motor is used to rotate the panel.
 
 # SWOT
 
+![SWOT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCoKXtsAGL7QURgteo7NtMA5ENk-Sq1vaj0w&usqp=CAU)
+
 ## Strengths
 
 * Ease to use as it is renewable form of energy.
