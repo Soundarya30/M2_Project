@@ -17,7 +17,7 @@ SimulIDE
 # WORKING PRINCIPLE
 
 * Two LDRs, a solar panel, a servo motor, and an ATmega328 Microcontroller make up the Sun tracking solar panel.On the solar panel's edges, two light-dependent resistors are positioned. When light falls on a light dependent resistor, it produces a low resistance. The panel is rotated in the direction of the Sun by a servo motor connected to it. The panel is set up in such a way that the light from two LDRs is compared, and the panel is rotated towards the LDR with the highest intensity, i.e. the least resistance. The panel is rotated at a specific angle using a servo motor.
-
+* When the light intensity on the right LDR is higher, the panel slowly travels to the right, and when the light intensity on the left LDR is higher, the panel gently goes to the left. The sun is ahead at noon, and the intensity of light on both panels is the same. In such circumstances, the panel remains stationary and does not rotate.
 
 ## Components Description
 
@@ -52,3 +52,25 @@ Servo motor is used to rotate the panel.
 ## Threats
 
 * Expensive
+
+# 4W's and 1'H
+
+## Who
+
+Can be used for those who wants to save electricity bill and energy.
+
+## Where
+
+Used in homes, offices, industries, streetlights.
+
+## When
+
+When there is power outage or to save the energy.
+
+## Why
+
+Ease to use the solar energy.
+
+## How
+
+By using SimulIDE.
