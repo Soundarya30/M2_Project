@@ -116,4 +116,4 @@ A structure diagram is a tool for documenting the various structures that make u
 
 ## Schematic Diagram
 
-https://github.com/Soundarya30/M2_Project/blob/main/2_Design/Schematic%20Diagram.png
+![schematic](https://github.com/Soundarya30/M2_Project/blob/main/2_Design/Schematic%20Diagram.png)
