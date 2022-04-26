@@ -1,4 +1,4 @@
-# M2_Solar Panel Position By Tracking Sun
+# Solar Panel Position By Tracking Sun
 
 # Folder Structure
 Folder             | Description
