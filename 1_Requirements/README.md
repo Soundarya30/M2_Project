@@ -32,3 +32,23 @@ Light Dependent Resistors or LDRs are the resistors whose resistance values depe
 ### Servo Motor
 
 Servo motor is used to rotate the panel.
+
+# SWOT
+
+## Strengths
+
+* Ease to use as it is renewable form of energy.
+* Saves the electricity bill.
+
+## Weakness
+
+* May create problems in rainy season.
+* They are heavy and occupy more space.
+
+## Opportunities
+
+* Used in homes, offices, industries as more energy can be saved by rotating the panel.
+
+## Threats
+
+* Expensive
