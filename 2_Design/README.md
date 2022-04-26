@@ -1,7 +1,7 @@
 # Design
 
-* Structural Diagram
 * Behavioral Diagram
+* Structural Diagram
 
 ## 1.Behavioral Diagram
 
